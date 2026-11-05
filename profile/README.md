@@ -26,13 +26,13 @@ Substituir pedidos dispersos por um fluxo organizado, rastreável e seguro, em q
 
 | Nome | Usuário no GitHub | Papel |
 |---|---|---|
-| [Pedro Luiz Boni Baratto] | [@pedroluizb](https://github.com/pedroluizb) | [Papel] |
-| [Patricia da Silva Horst] | [@PatriciaHorst](https://github.com/PatriciaHorst) | [Papel] |
-| [Arthur Jardim Souza] | [@ArthurJardimSouza](https://github.com/ArthurJardimSouza) | [Papel] |
-| [Pedro Henrique Pontes] | [@pedr432](https://github.com/pedr432) | [Papel] |
-| [João Victor Junkes Ullmann] | [@joaojunckesullmann](https://github.com/joaojunckesullmann) | [Papel] |
-| [Lucas Beda] | [@LucasBedaa](https://github.com/LucasBedaa) | [Papel] |
+| [Pedro Luiz Boni Baratto] | [@pedroluizb](https://github.com/pedroluizb) | [Developer] |
+| [Patricia da Silva Horst] | [@PatriciaHorst](https://github.com/PatriciaHorst) | [Scrum Master] |
+| [Arthur Jardim Souza] | [@ArthurJardimSouza](https://github.com/ArthurJardimSouza) | [Developer] |
+| [Pedro Henrique Pontes] | [@pedr432](https://github.com/pedr432) | [Developer] |
+| [João Victor Junkes Ullmann] | [@joaojunckesullmann](https://github.com/joaojunckesullmann) | [Developer] |
+| [Lucas Beda] | [@LucasBedaa](https://github.com/LucasBedaa) | [Developer] |
 
 ## Status do projeto
 
-Em desenvolvimento.
+Em desenvolvimento...
