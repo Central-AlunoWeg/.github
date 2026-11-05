@@ -35,6 +35,11 @@ Substituir pedidos dispersos por um fluxo organizado, rastreável e seguro, em q
 
 ## Status do projeto
 
-Em desenvolvimento...
+<br>
+
+<p>
+  <img src="https://img.shields.io/badge/status-em%20desenvolvimento-3B82F6?style=for-the-badge&logo=github&logoColor=white" alt="Status" />
+  <img src="https://img.shields.io/badge/MVP-em%20andamento-1E3A8A?style=for-the-badge" alt="MVP" />
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:1E3A8A&height=120&section=footer" width="100%" alt="Footer" />
