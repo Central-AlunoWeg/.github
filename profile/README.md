@@ -30,8 +30,8 @@ Substituir pedidos dispersos por um fluxo organizado, rastreável e seguro, em q
 | [Patricia da Silva Horst] | [@PatriciaHorst](https://github.com/PatriciaHorst) | [Scrum Master] |
 | [Arthur Jardim Souza] | [@ArthurJardimSouza](https://github.com/ArthurJardimSouza) | [Developer] |
 | [Pedro Henrique Pontes] | [@pedr432](https://github.com/pedr432) | [Developer] |
-| [João Victor Junkes Ullmann] | [@joaojunckesullmann](https://github.com/joaojunckesullmann) | [Developer] |
-| [Lucas Beda] | [@LucasBedaa](https://github.com/LucasBedaa) | [Developer] |
+| [João Victor Junckes Ullmann] | [@joaojunckesullmann](https://github.com/joaojunckesullmann) | [Developer] |
+| [Lucas Beda Timoteo dos Santos] | [@LucasBedaa](https://github.com/LucasBedaa) | [Developer] |
 
 ## Status do projeto
 
