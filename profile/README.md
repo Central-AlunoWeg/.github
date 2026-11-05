@@ -29,7 +29,9 @@ Substituir pedidos dispersos por um fluxo organizado, rastreável e seguro, em q
 | [Pedro Luiz Boni Baratto] | [@pedroluizb](https://github.com/pedroluizb) | [Papel] |
 | [Patricia da Silva Horst] | [@PatriciaHorst](https://github.com/PatriciaHorst) | [Papel] |
 | [Arthur Jardim Souza] | [@ArthurJardimSouza](https://github.com/ArthurJardimSouza) | [Papel] |
-| [Pedro Henrique Pontes] | [@pedr432](https://github.com/ArthurJardimSouza) | [Papel] |
+| [Pedro Henrique Pontes] | [@pedr432](https://github.com/pedr432) | [Papel] |
+| [João Victor Junkes Ullmann] | [@joaojunckesullmann](https://github.com/joaojunckesullmann) | [Papel] |
+| [Lucas Beda] | [@LucasBedaa](https://github.com/LucasBedaa) | [Papel] |
 
 ## Status do projeto
 
