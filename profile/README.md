@@ -1,4 +1,4 @@
-# Central AlunoWEG
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:EC4899&height=200&section=header&text=Central-AlunoWeg&fontSize=50&fontColor=ffffff&fontAlignY=40&animation=fadeIn" width="100%" alt="Header" />
 
 Sistema web para centralizar, em um único lugar, o registro e o acompanhamento de solicitações e ocorrências de alunos, como saídas particulares, declarações médicas e outros pedidos.
 
@@ -36,3 +36,5 @@ Substituir pedidos dispersos por um fluxo organizado, rastreável e seguro, em q
 ## Status do projeto
 
 Em desenvolvimento...
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:EC4899&height=180&section=footer&fontSize=24&fontColor=ffffff&fontAlignY=65" width="100%" alt="Footer" />
